@@ -1,0 +1,17 @@
+*{background-color: #FAEED1;}
+h2{border: 2px solid #B2A59B;
+    background-color: #DED0B6;}
+    h2{padding: 15px;}
+    h2{margin: 0px;}
+h2{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.html-link{border: 2px solid #FFC5C5;
+    padding: 10px;
+    background-color: #FFC5C5;
+}
+img{width:100%;
+    height: 50%;
+}
+
+
